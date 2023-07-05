@@ -1,0 +1,43 @@
+{
+    "verify_ssl_requests": true,
+    "exported_data_files": {
+      "jira_unsorted_file_name": "jira-cr-export",
+      "jira_categorized_file_name": "jira-cr-categorized",
+      "wiki_unsorted_file_name": "wiki-cr-export",
+      "wiki_page_structure": "wiki-page-structure",
+      "wiki_categorized_file_name": "wiki-cr-categorized",
+      "updated_cr_wiki2jira_file_name": "updated-cr-wiki2jira",
+      "updated_cr_jira2wiki_file_name": "updated-cr-jira2wiki"
+    },
+    "directory_paths": {
+      "project_base_dir": "<project_base_dir>",
+      "jira_unsorted_dir": "<jira_unsorted_dir>",
+      "jira_categorized_dir": "<jira_categorized_dir>",
+      "wiki_unsorted_dir": "<wiki_unsorted_dir>",
+      "wiki_page_structure_dir": "<wiki_page_structure_dir>",
+      "wiki_categorized_dir": "<wiki_categorized_dir>",
+      "updated_cr_wiki2jira_dir": "<updated_cr_wiki2jira_dir>",
+      "updated_cr_jira2wiki_dir": "<updated_cr_jira2wiki_dir>"
+    },
+    "jira_configuration": {
+      "jira_host": "https://support.wu.ac.at",
+      "jira_auth_url": "https://support.wu.ac.at/rest/auth/session",
+      "jira_cr_management_url": "https://support.wu.ac.at/rest/comment-templates/1.0/backup",
+      "jira_cr_export_url": "https://support.wu.ac.at/rest/comment-templates/1.0/backup/export",
+      "jira_cr_import_url": "https://support.wu.ac.at/rest/comment-templates/1.0/backup/import",
+      "jira_cr_bulkdelete_url": "https://support.wu.ac.at/rest/comment-templates/1.0/backup/delete",
+      "jira_add_single_cr_url": "https://support.wu.ac.at/secure/add-template.jspa",
+      "jira_edit_single_cr_url": "https://support.wu.ac.at/edit-template.jspa",
+      "jira_delete_single_cr_url": "https://support.wu.ac.at/rest/comment-templates/1.0/template"
+    },
+    "wiki_configuration": {
+      "wiki_base_url": "https://wiki.wu.ac.at/",
+      "wiki_request_pause_time": 2,
+      "initial_parent_pageId_table": 271174501,
+      "initial_parent_pageId": 271175005,
+      "initial_spaceKey": "CR",
+      "wiki_cr_page_table_headers": ["Name of Canned Response in Jira ServiceDesk", "Canned Response Content", "Chatbot Answer - DE", "Chatbot Answer - EN", "projectKey", "templateId"],
+      "wiki_cr_export_json_keys": ["name", "templateText", "chatbotAnswerDE", "chatbotAnswerEN", "projectKey", "templateId"]
+    }
+  }
+  
