@@ -1,0 +1,2852 @@
+[
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "IT - CR",
+        "pageId": "270685554"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Hosting - IT - CR",
+        "pageId": "271174505"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Hosting Types - Hosting - IT - CR",
+        "pageId": "271174506"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Client - IT - CR",
+        "pageId": "270685555"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "MS Office Homeuse EN - Client - IT - CR",
+        "pageId": "271174507"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Clouddienste - Client - IT - CR",
+        "pageId": "271174508"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "OneDrive/Dropbox - Clouddienste - Client - IT - CR",
+        "pageId": "271174509"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Neue cloudbasierte Software - Clouddienste - Client - IT - CR",
+        "pageId": "270685556"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "iCloud - Clouddienste - Client - IT - CR",
+        "pageId": "270685557"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Software - Client - IT - CR",
+        "pageId": "271174510"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "NVivo License English - Software - Client - IT - CR",
+        "pageId": "271174511"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Adobe CC - Software - Client - IT - CR",
+        "pageId": "271174512"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "SPSS/PSPP für Studierende - Software - Client - IT - CR",
+        "pageId": "271174513"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "R&RStudio ENG - Software - Client - IT - CR",
+        "pageId": "270685559"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Software in Softwarecenter ENG - Software - Client - IT - CR",
+        "pageId": "270685560"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Datensicherung How To - Client - IT - CR",
+        "pageId": "271174514"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Deutsch - Datensicherung How To - Client - IT - CR",
+        "pageId": "270685561"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "English - Datensicherung How To - Client - IT - CR",
+        "pageId": "271174515"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Adminrechte Anfrage - Client - IT - CR",
+        "pageId": "271174516"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Thinkcell für Studierende - Client - IT - CR",
+        "pageId": "271174517"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Nutzungsbestimmungen DE - Thinkcell für Studierende - Client - IT - CR",
+        "pageId": "270685562"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Key DE - Thinkcell für Studierende - Client - IT - CR",
+        "pageId": "270685563"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Nutzungsbestimmungen ENG - Thinkcell für Studierende - Client - IT - CR",
+        "pageId": "271174518"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Key ENG - Thinkcell für Studierende - Client - IT - CR",
+        "pageId": "271174519"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "OfflineFiles - schneller Arbeiten im fernen Ausland - Client - IT - CR",
+        "pageId": "271174520"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Rechnertausch Infos - Client - IT - CR",
+        "pageId": "270685565"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "MS Teams Verweis - Client - IT - CR",
+        "pageId": "271174521"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Neue Mitarbeiter - Client - IT - CR",
+        "pageId": "271174522"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "AV-Event - IT - CR",
+        "pageId": "271174523"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "benötigte Informationen - AV-Event - IT - CR",
+        "pageId": "271174524"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Galerie - AV-Event - IT - CR",
+        "pageId": "270685567"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Aufbau - AV-Event - IT - CR",
+        "pageId": "271174525"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Hörsaal Sitzungssaal - AV-Event - IT - CR",
+        "pageId": "271174526"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "COVID-Standardetting FS1 - AV-Event - IT - CR",
+        "pageId": "271174527"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Sig - AV-Event - IT - CR",
+        "pageId": "271174528"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "WLAN Conference - AV-Event - IT - CR",
+        "pageId": "271174529"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Deckenmikrofone - AV-Event - IT - CR",
+        "pageId": "270685569"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Netzwerkzugang - AV-Event - IT - CR",
+        "pageId": "271174530"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "AR - AV-Event - IT - CR",
+        "pageId": "271174531"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Diverse SC - IT - CR",
+        "pageId": "270685570"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Wuniverse IO International Office - Diverse SC - IT - CR",
+        "pageId": "270685571"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "2fa-HW-Token - Diverse SC - IT - CR",
+        "pageId": "270685572"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "2fa entsperren - Diverse SC - IT - CR",
+        "pageId": "271174532"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Passwort neu DE für Mitarbeiter - Diverse SC - IT - CR",
+        "pageId": "270685573"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Typo3 falsche Anzeige - Diverse SC - IT - CR",
+        "pageId": "271174533"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Risk User - Diverse SC - IT - CR",
+        "pageId": "271174534"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Thunderbird/IMAP/O365 - Diverse SC - IT - CR",
+        "pageId": "270685574"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Wiener Linien - Diverse SC - IT - CR",
+        "pageId": "270685575"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Spam ohne Link - Diverse SC - IT - CR",
+        "pageId": "270685576"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "AwarnessTraining - Diverse SC - IT - CR",
+        "pageId": "270685577"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Kein Share-Eigentümer - Diverse SC - IT - CR",
+        "pageId": "271174535"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "2fa-14tage (Deutsch) - Diverse SC - IT - CR",
+        "pageId": "271174536"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Projektordner Englisch - Diverse SC - IT - CR",
+        "pageId": "271174537"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Projektordner - Diverse SC - IT - CR",
+        "pageId": "271174538"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Prüfungsorganisation - Diverse SC - IT - CR",
+        "pageId": "270685579"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Spam - Diverse SC - IT - CR",
+        "pageId": "271174539"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "VPN Portal Lösung - Diverse SC - IT - CR",
+        "pageId": "271174540"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Passwort vergessen DE - Diverse SC - IT - CR",
+        "pageId": "271174541"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Passwort vergessen EN - Diverse SC - IT - CR",
+        "pageId": "271174542"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Passwort neu DE - Diverse SC - IT - CR",
+        "pageId": "271174543"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Win 7 auf 10 privat - Diverse SC - IT - CR",
+        "pageId": "271174544"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Passwort neu EN - Diverse SC - IT - CR",
+        "pageId": "271174545"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Spam EN - Diverse SC - IT - CR",
+        "pageId": "270685582"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Think-Cell - Diverse SC - IT - CR",
+        "pageId": "271174546"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Google Chrome - Diverse SC - IT - CR",
+        "pageId": "271174547"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Personalabteilung - Diverse SC - IT - CR",
+        "pageId": "271174548"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Office365 Config - Diverse SC - IT - CR",
+        "pageId": "270685583"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Conference WLAN - Diverse SC - IT - CR",
+        "pageId": "271174549"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Passwort vergessen COVID DE/EN - Diverse SC - IT - CR",
+        "pageId": "270685585"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Verweis auf Learn - Diverse SC - IT - CR",
+        "pageId": "270685586"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Weiterleitung Office365 - Diverse SC - IT - CR",
+        "pageId": "271174550"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "mehr Speicherplatz - Diverse SC - IT - CR",
+        "pageId": "270685587"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Verweis Campusmanagement - Diverse SC - IT - CR",
+        "pageId": "271174551"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Cookies Cache Englisch - Diverse SC - IT - CR",
+        "pageId": "271174552"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Content-Management-System - IT - CR",
+        "pageId": "271174553"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "TYPO3 online Kurse und Anleitungen - Content-Management-System - IT - CR",
+        "pageId": "271174554"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Caching - Content-Management-System - IT - CR",
+        "pageId": "270685588"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Caching - Content-Management-System - IT - CR",
+        "pageId": "271174555"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Supportanfrage-anMailingliste-typo3info - Content-Management-System - IT - CR",
+        "pageId": "270685589"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Strict language handling - Content-Management-System - IT - CR",
+        "pageId": "270685590"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Strict language handling - Content-Management-System - IT - CR",
+        "pageId": "271174556"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Free/Strict/Mixed mode - Content-Management-System - IT - CR",
+        "pageId": "270685591"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Free/Strict/Mixed mode - Content-Management-System - IT - CR",
+        "pageId": "270685592"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Permissions changed - Content-Management-System - IT - CR",
+        "pageId": "270685593"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Permissions changed - Content-Management-System - IT - CR",
+        "pageId": "271174557"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Login problems - Content-Management-System - IT - CR",
+        "pageId": "270685594"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Login problems - Content-Management-System - IT - CR",
+        "pageId": "271174558"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Image sizes - Content-Management-System - IT - CR",
+        "pageId": "270685595"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Image sizes - Content-Management-System - IT - CR",
+        "pageId": "271174559"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Profile / WU Directory - Content-Management-System - IT - CR",
+        "pageId": "271174560"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Profile / WU Directory - Content-Management-System - IT - CR",
+        "pageId": "271174561"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Backend open - Content-Management-System - IT - CR",
+        "pageId": "271174562"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Backend open - Content-Management-System - IT - CR",
+        "pageId": "271174563"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "ActivePagetree - Content-Management-System - IT - CR",
+        "pageId": "270685597"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - ActivePagetree - Content-Management-System - IT - CR",
+        "pageId": "270685598"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Diverses - IT - CR",
+        "pageId": "270685599"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Account abgelaufen - Diverses - IT - CR",
+        "pageId": "270685600"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Requests CAFM/Campusmanagement - Diverses - IT - CR",
+        "pageId": "270685601"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Requests CAFM/Campusmanagement - Diverses - IT - CR",
+        "pageId": "271174564"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Requests SSC - Diverses - IT - CR",
+        "pageId": "271174565"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE/EN - Requests SSC - Diverses - IT - CR",
+        "pageId": "271174566"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "EN - Requests SSC - Diverses - IT - CR",
+        "pageId": "271174567"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "AV-Support - IT - CR",
+        "pageId": "271174568"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "ITA - AV-Support - IT - CR",
+        "pageId": "270685602"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Ausgabe IT-Servicedesk - AV-Support - IT - CR",
+        "pageId": "271174569"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "SC Mobiletelefonie - IT - CR",
+        "pageId": "271174570"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Datenpakte Magenta Auftrag - SC Mobiletelefonie - IT - CR",
+        "pageId": "271174571"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Datenpakte Magenta Buchung - SC Mobiletelefonie - IT - CR",
+        "pageId": "270685603"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "VolumeBoost - SC Mobiletelefonie - IT - CR",
+        "pageId": "271174572"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Datenpauschale - SC Mobiletelefonie - IT - CR",
+        "pageId": "270685604"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "VolumeB-DatenP - SC Mobiletelefonie - IT - CR",
+        "pageId": "270685605"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Umfragen - IT - CR",
+        "pageId": "270685606"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Initial reply - Umfragen - IT - CR",
+        "pageId": "271174573"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Initial reply - Umfragen - IT - CR",
+        "pageId": "270685607"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Service Desk - IT - CR",
+        "pageId": "271174574"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Manage Queues - Service Desk - IT - CR",
+        "pageId": "271174575"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DE - Manage Queues - Service Desk - IT - CR",
+        "pageId": "271174576"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Studentenkennung - Service Desk - IT - CR",
+        "pageId": "271174577"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Diverses SC - IT - CR",
+        "pageId": "271174578"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Think-Cell - Diverses SC - IT - CR",
+        "pageId": "271174579"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Web-Statistiken - IT - CR",
+        "pageId": "270685609"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Rechte vergeben (Piwik) - Web-Statistiken - IT - CR",
+        "pageId": "270685610"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "GIS - IT - CR",
+        "pageId": "271174580"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Ändern der Raumnummer - GIS - IT - CR",
+        "pageId": "270685611"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "SSC - CR",
+        "pageId": "271174581"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studieninfo - SSC - CR",
+        "pageId": "271174582"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Erfolgsnachweis (D) - Studieninfo - SSC - CR",
+        "pageId": "271174583"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Erfolgnachweis (E) - Studieninfo - SSC - CR",
+        "pageId": "271174584"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "LV auf Learn hinzufügen - Studieninfo - SSC - CR",
+        "pageId": "271174585"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Verspätung technisches Problem - Studieninfo - SSC - CR",
+        "pageId": "271174586"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Online Rückmeldung - Studieninfo - SSC - CR",
+        "pageId": "270685612"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Beurlaubung wegen fehlendem 2G Nachweis - Studieninfo - SSC - CR",
+        "pageId": "271174587"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Wechsel an WU - Studieninfo - SSC - CR",
+        "pageId": "271174588"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "BBE Motivation statement - Studieninfo - SSC - CR",
+        "pageId": "271174589"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bezahlung Registrierungsgebühr (E) 2023/24 - Studieninfo - SSC - CR",
+        "pageId": "271174590"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Praktikumsbestätigung - Convention de Stage - Studieninfo - SSC - CR",
+        "pageId": "271174591"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Substitution Code (Ersatzkennzeichen) - Studieninfo - SSC - CR",
+        "pageId": "270685613"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Selection Procedure 2023/24 - Studieninfo - SSC - CR",
+        "pageId": "271174592"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Student Rankings - Studieninfo - SSC - CR",
+        "pageId": "270685614"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Rankings nach Studienende - Student Rankings - Studieninfo - SSC - CR",
+        "pageId": "271174593"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Ausweis Rankings - Student Rankings - Studieninfo - SSC - CR",
+        "pageId": "270685615"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienzeitbestätigung - Studieninfo - SSC - CR",
+        "pageId": "271174594"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Master allgemein (E) - Studieninfo - SSC - CR",
+        "pageId": "271174595"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Master allgemein (D) - Studieninfo - SSC - CR",
+        "pageId": "271174596"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Berufsbegleitendes Studium - Studieninfo - SSC - CR",
+        "pageId": "270685616"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anerkennung von anderen Unis - Studieninfo - SSC - CR",
+        "pageId": "271174597"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "4 negative STEOP-Antritte - Studieninfo - SSC - CR",
+        "pageId": "271174598"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Umfrage für wissenschaftliche Arbeiten - Studieninfo - SSC - CR",
+        "pageId": "270685617"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienbestätigungen/Erfolgsnachweis - Studieninfo - SSC - CR",
+        "pageId": "271174599"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Mitbelegung - Studieninfo - SSC - CR",
+        "pageId": "270685620"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Master allgemein (E) inkl. German Courses - Studieninfo - SSC - CR",
+        "pageId": "270685621"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "WU@School - Studieninfo - SSC - CR",
+        "pageId": "270685622"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anmeldung ohne Aufnahmeverfahren 2023/24 - Studieninfo - SSC - CR",
+        "pageId": "271174600"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Hilfsmittel Aufnahmeprüfung (nicht aktuell) - Studieninfo - SSC - CR",
+        "pageId": "271174601"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienwechsel Wire Wiso - Studieninfo - SSC - CR",
+        "pageId": "271174602"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "LV-Anmeldung zweimal im Semester - Studieninfo - SSC - CR",
+        "pageId": "271174603"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bachelor allgemein (E) 2022/23 - Studieninfo - SSC - CR",
+        "pageId": "271174604"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bachelor allgemein (D) 2022/23 - Studieninfo - SSC - CR",
+        "pageId": "271174605"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Wiso/Wire Beginn SS22 - Studieninfo - SSC - CR",
+        "pageId": "271174606"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Registrierungsgebühr Einlangen - Studieninfo - SSC - CR",
+        "pageId": "271174607"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Aufnahmeverfahren 2023/24 - Studieninfo - SSC - CR",
+        "pageId": "271174608"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Terminvereinbarung Zulassung - Studieninfo - SSC - CR",
+        "pageId": "271174609"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienplanwechsel - Studieninfo - SSC - CR",
+        "pageId": "270685623"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Exmatrikulation - Studieninfo - SSC - CR",
+        "pageId": "270685624"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "No-Show - Studieninfo - SSC - CR",
+        "pageId": "271174610"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Zuständigkeit Prüfungsorganisation - Studieninfo - SSC - CR",
+        "pageId": "271174611"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Zuständigkeit Zulassung - Studieninfo - SSC - CR",
+        "pageId": "271174612"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Information Studienbeginn - Studieninfo - SSC - CR",
+        "pageId": "271174613"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bezahlung Registrierungsgebühr 2023/24 - Studieninfo - SSC - CR",
+        "pageId": "271174614"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Wiederaufnahme des Studiums - Studieninfo - SSC - CR",
+        "pageId": "271174615"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anmeldung freie Wahlfächer - Studieninfo - SSC - CR",
+        "pageId": "270685625"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Nachweis Englisch BBE - Studieninfo - SSC - CR",
+        "pageId": "271174616"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anfragen externe Adressen - Studieninfo - SSC - CR",
+        "pageId": "271174617"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Zahlung Registrierungsgebühr - Studieninfo - SSC - CR",
+        "pageId": "271174618"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Signatur - Studieninfo - SSC - CR",
+        "pageId": "270685626"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Transfer to WU - Studieninfo - SSC - CR",
+        "pageId": "271174619"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Tuition Fees - Studieninfo - SSC - CR",
+        "pageId": "271174620"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Online Infosessions - Studieninfo - SSC - CR",
+        "pageId": "270685627"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Sholarships and grants - Studieninfo - SSC - CR",
+        "pageId": "271174621"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Aufgabenstellung Wiso Aufnahmeverfahren 2022/23 - Studieninfo - SSC - CR",
+        "pageId": "271174622"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anerkennung - SSC - CR",
+        "pageId": "270685629"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685630"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bachelorarbeit, keine Anerkennung - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685631"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Mitbelegung: Outgoing - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174623"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Mitbelegung: Für Electives im Master Economics - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174624"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Mitbelegung: an WU – nicht für ordentliches Studium - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685632"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Mitbelegung: Outgoing ohne Vorausgenehmigung - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174625"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule – deutsche Oberschule - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174626"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Macro Note Pass/Bestanden - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174627"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Antrag per Email nicht zulässig - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685633"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anfrage nach 2 Semestern - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685634"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Freemover - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685635"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule Erstanfrage - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685636"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule- nicht in VO genannte Prüfung - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174628"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule Anerkennungstool - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685637"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule fachfremd - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685638"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Öffnungszeiten SSC - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174629"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule - Keine Anerkennung mehr der „LVP Marketing“ mit den Fächern „Betriebswirtschaft“ und „Internationale Wirtschafts- und Kulturräume“: - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174630"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule - Keine Anerkennung von AHS (Gymnasium): - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174631"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schule - keine zus. Unterlagen, E-mails über Jira zum Online-Antrag - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174632"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Antragstellung - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174633"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Counselling - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174634"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Deutschland - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174635"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Freie Wahlfächer - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174636"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Gutachter - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685640"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienbeihilfe - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174637"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Tausch - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685641"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Online-AnerkennungsDB - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174638"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Verfahrensdauer - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685642"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Vorstudium - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685643"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Wissenschaftliche Arbeiten - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685644"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Unterschied Wiso/Studienzweige - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174639"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Mitbelegung: Genehmigung Incoming - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174640"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Behauptung falscher Notenumrechnung - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174641"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Eltern - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174642"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Erstanfrage BBE - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174643"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "IBW- AE Formular - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685645"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Antragstellung online Österreich - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685646"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Antragstellung online Partneruniversität - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685647"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "SB-Anerkennung - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174644"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Freie Wahlfächer VS Wahlpflichtfächer VS Wahlfach - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685648"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Umrechnung der ECTS - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174645"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Umrechnung soziale Kompetenz Workshops - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685649"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Umstieg Wiso12 auf Wiso19 - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174646"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Terminvergabe Anerkennung - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "271174647"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Antwort Antragsstellung Standard dt. - Allgemeines - Anerkennung - SSC - CR",
+        "pageId": "270685651"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174648"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "kein Antrag Joint Study - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174649"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "kein Antrag Erasmus - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685652"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bescheid erlassen Joint Study: - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685653"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bescheid erlassen Erasmus: - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174650"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Brieffreundschaft: - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685654"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Behauptung falsches Gutachten: - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174651"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Keine 6 SSt an PflichtLVs: - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174652"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Stückelung Internationales Wahlfach - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685655"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bindungswirkung Feststellungsbescheid: - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685656"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Verbesserung - fehlende Unterlagen - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685657"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Ausschreibung Leistungsstipendien - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685658"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Mitwirkungspflicht - detailliertere LI, kein SPP - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174653"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "keine Anerkennung eines bereits abgelegten SPP - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174654"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Vorstudium - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685659"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "CEMS - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174655"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Antragstellung - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174656"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anerkennung nach Mitbelegung - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685660"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Online-AnerkennungsDB - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685661"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Nostrifizierung – Erstanfrage - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685662"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Genehmigung Mitbelegung - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685663"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienbeginner - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685664"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bindungswirkung Feststellungsbescheid - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685665"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Nostrifizierung – zwingender Grund - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685666"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Ausnahmen Leistungsstipendium - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174657"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Beste 52 ECTS / Leistungsstipendium - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174658"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Keine Zuerkennung trotz Voraussetzungen Leistungsstipendium - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685667"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Lehrveranstaltungsabmeldung - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "271174659"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Antwort Antragsstellung Standard engl. - englischsprachige Macros - Anerkennung - SSC - CR",
+        "pageId": "270685668"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "271174660"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Stückelung International Courses - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "270685669"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "kein Antrag Joint Study - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "271174661"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bescheid erlassen Joint Study - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "271174662"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Brieffreundschaft - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "270685670"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Behauptung falsches GA - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "270685671"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "kein Antrag Erasmus - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "270685672"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bescheid erlassen Erasmus - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "271174663"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "keine 6 SSt an PflichtLVs - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "270685673"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Bindungswirkung Feststellungsbescheid - Vorausanerkennung - Anerkennung - SSC - CR",
+        "pageId": "271174664"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Stipendium - Anerkennung - SSC - CR",
+        "pageId": "270685674"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Anspruchdauer - Stipendium - Anerkennung - SSC - CR",
+        "pageId": "271174665"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Inländergleichstellung - Stipendium - Anerkennung - SSC - CR",
+        "pageId": "271174666"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Leistungszeitraum - Stipendium - Anerkennung - SSC - CR",
+        "pageId": "271174667"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Nostrifizierung - Anerkennung - SSC - CR",
+        "pageId": "271174668"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Erstanfrage - Nostrifizierung - Anerkennung - SSC - CR",
+        "pageId": "270685675"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Konkrete Anfrage - Nostrifizierung - Anerkennung - SSC - CR",
+        "pageId": "271174669"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "zwingender Grund - Nostrifizierung - Anerkennung - SSC - CR",
+        "pageId": "271174670"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Individuelles Studium - Anerkennung - SSC - CR",
+        "pageId": "270685676"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Voraussetzungen - Individuelles Studium - Anerkennung - SSC - CR",
+        "pageId": "270685677"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Akademischer Grad - Individuelles Studium - Anerkennung - SSC - CR",
+        "pageId": "270685678"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Terminvergabe Individuelles Studium - Individuelles Studium - Anerkennung - SSC - CR",
+        "pageId": "271174671"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Stipendien - Anerkennung - SSC - CR",
+        "pageId": "270685679"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Ausnahmen - Stipendien - Anerkennung - SSC - CR",
+        "pageId": "270685680"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "beste 52 ECTS - Stipendien - Anerkennung - SSC - CR",
+        "pageId": "271174672"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Keine Zuerkennung trotz Voraussetzungen - Stipendien - Anerkennung - SSC - CR",
+        "pageId": "271174673"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienbeginner - Anerkennung - SSC - CR",
+        "pageId": "271174674"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienbeginner BAWISO - Studienbeginner - Anerkennung - SSC - CR",
+        "pageId": "271174675"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienbeginner BAWIRE - Studienbeginner - Anerkennung - SSC - CR",
+        "pageId": "270685681"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "SBP - Anerkennung - SSC - CR",
+        "pageId": "271174676"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Erstinfo - Verweis Uni Wien - SBP - Anerkennung - SSC - CR",
+        "pageId": "271174677"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studienrecht - SSC - CR",
+        "pageId": "270685682"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Lehrende - Studienrecht - SSC - CR",
+        "pageId": "270685683"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Ersatzleistung für Abwesenheiten - Lehrende - Studienrecht - SSC - CR",
+        "pageId": "270685684"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Abmeldung wegen Abwesenheiten - Lehrende - Studienrecht - SSC - CR",
+        "pageId": "271174678"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Aufbewahrung Beurteilungsunterlagen und Einsicht - Lehrende - Studienrecht - SSC - CR",
+        "pageId": "270685686"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schummeln - Nach Meldung: Erschleichungsprotokoll, Stud. informieren - Lehrende - Studienrecht - SSC - CR",
+        "pageId": "271174679"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schummeln - Kein Plagiat, sondern Schummeln - Lehrende - Studienrecht - SSC - CR",
+        "pageId": "270685687"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Plagiate - % Übereinstimmung in der Software - Lehrende - Studienrecht - SSC - CR",
+        "pageId": "270685688"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Plagiate - Gutachten ersuchen - Lehrende - Studienrecht - SSC - CR",
+        "pageId": "271174680"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Studierende - Studienrecht - SSC - CR",
+        "pageId": "271174681"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Online-Prüfung, technische Probleme, Ersatzleistung - Studierende - Studienrecht - SSC - CR",
+        "pageId": "271174682"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Prüfungsanfechtung - Studierende - Studienrecht - SSC - CR",
+        "pageId": "270685689"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Rechtsmittel gegen Beurteilung - Studierende - Studienrecht - SSC - CR",
+        "pageId": "271174683"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Rechtsmittel gegen Beurteilung Masterarbeit - Studierende - Studienrecht - SSC - CR",
+        "pageId": "270685690"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Schummeln - Keine Verhandlung - Studierende - Studienrecht - SSC - CR",
+        "pageId": "270685691"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Promotion sub auspiciis - Studierende - Studienrecht - SSC - CR",
+        "pageId": "270685692"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - Umschreiben Magister auf Master - Studierende - Studienrecht - SSC - CR",
+        "pageId": "271174684"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Prüfungen allgemein - falsches Fach für Bachelorarbeit - Studierende - Studienrecht - SSC - CR",
+        "pageId": "270685693"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "LIBRARY - CR",
+        "pageId": "270685694"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "readit - LIBRARY - CR",
+        "pageId": "271174686"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Template - readit - LIBRARY - CR",
+        "pageId": "270685695"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization completed DE - Template - readit - LIBRARY - CR",
+        "pageId": "270685696"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization completed EN - Template - readit - LIBRARY - CR",
+        "pageId": "271174687"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization declined DE - Template - readit - LIBRARY - CR",
+        "pageId": "271174688"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization declined EN - Template - readit - LIBRARY - CR",
+        "pageId": "271174689"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization request received DE - Template - readit - LIBRARY - CR",
+        "pageId": "270685697"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization request received EN - Template - readit - LIBRARY - CR",
+        "pageId": "271174690"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization details DE - Template - readit - LIBRARY - CR",
+        "pageId": "270685698"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Digitalization details EN - Template - readit - LIBRARY - CR",
+        "pageId": "271174691"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "LEARN - CR",
+        "pageId": "271174692"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Signature - LEARN - CR",
+        "pageId": "271174693"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Programmadministration, Zugang - LEARN - CR",
+        "pageId": "270685699"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "LV-Bearbeiter/innen: Rollenbeschreibung - LEARN - CR",
+        "pageId": "271174694"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "LV-Bearbeiter/innen: Formular - LEARN - CR",
+        "pageId": "270685700"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "WUniverse Account - LEARN - CR",
+        "pageId": "270685701"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Ticket schließen - LEARN - CR",
+        "pageId": "271174695"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Streaming Optionen - LEARN - CR",
+        "pageId": "271174696"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "MyLEARN Login - LEARN - CR",
+        "pageId": "271174697"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Login - EN - LEARN - CR",
+        "pageId": "271174698"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: Plagiats Email - LEARN - CR",
+        "pageId": "271174699"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Zoom TN-Liste herunterladen - LEARN - CR",
+        "pageId": "271174700"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: Prozess des Hochladens (Studierende) - LEARN - CR",
+        "pageId": "271174701"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: Format der Arbeit (Studierende) - LEARN - CR",
+        "pageId": "270685702"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: Auge schließen ja oder unnötig? - LEARN - CR",
+        "pageId": "270685703"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Opt-In Danke - LEARN - CR",
+        "pageId": "271174702"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Canvas: eAssistent*innen als Lehrassistenten hinzufügen - LEARN - CR",
+        "pageId": "270685704"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Canvas: UmstellungMasterSoSe2023 - LEARN - CR",
+        "pageId": "270685705"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: Können nicht gelöscht werden - LEARN - CR",
+        "pageId": "271174704"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "WUniverseMsGuestAccount_Link_E - LEARN - CR",
+        "pageId": "271174705"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "WUniverseMSgastaccountDE - LEARN - CR",
+        "pageId": "270685706"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "LV-Bearbeiter/innen: Canvas - LEARN - CR",
+        "pageId": "271174706"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Canvas: Lehradministration & Programmadministration - LEARN - CR",
+        "pageId": "270685707"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Canvas: Feature Request - LEARN - CR",
+        "pageId": "271174707"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "BluePrint-Kurs für 2 Kurse - LEARN - CR",
+        "pageId": "271174708"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Passwort vergessen (EN) - LEARN - CR",
+        "pageId": "270685708"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Antrag zur Vergabe der LV-Bearbeiter*innen-Rolle - LEARN - CR",
+        "pageId": "271174709"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Antrag zur Änderung des Zugangs zum Prüfungsserver - LEARN - CR",
+        "pageId": "270685709"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Storno Anmeldung - LEARN - CR",
+        "pageId": "270685710"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Blueprint Kurs erstellt - LEARN - CR",
+        "pageId": "271174710"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Antrag LV Bearbeiter (EN) - LEARN - CR",
+        "pageId": "271174711"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Favoritestatus | Dashboard Canvas - LEARN - CR",
+        "pageId": "271174712"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "eStream Authentifizierung - LEARN - CR",
+        "pageId": "270685711"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Blueprint Kurs erstellt (DU-Form) - LEARN - CR",
+        "pageId": "271174713"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Urheberrecht Buchausschnitte verwenden - LEARN - CR",
+        "pageId": "270685713"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: Auge schließen - LEARN - CR",
+        "pageId": "271174714"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "MyLEARN-Startseite und Unterschied LV, LMS - LEARN - CR",
+        "pageId": "271174715"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Newsmeldungen - LEARN - CR",
+        "pageId": "270685714"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Syllabus kann nicht übernommen werden - LEARN - CR",
+        "pageId": "270685715"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Embed chat code in content page - LEARN - CR",
+        "pageId": "271174717"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Videos bereitstellen - LEARN - CR",
+        "pageId": "270685716"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Embedd_vidoes - LEARN - CR",
+        "pageId": "271174718"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Medien_hochladen_Wege - LEARN - CR",
+        "pageId": "271174719"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Weiterleitung Digital Teaching - LEARN - CR",
+        "pageId": "270685717"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Gruppenadministration: Opt in  - LEARN - CR",
+        "pageId": "271174721"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG: Präsenzprüfungen am Campus - LEARN - CR",
+        "pageId": "270685718"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG:  Online-Prüfung in Lehrveranstaltungsumgebung bis 7.Juni - LEARN - CR",
+        "pageId": "271174722"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG: Online-Prüfung in Online-Prüfungsumgebung - LEARN - CR",
+        "pageId": "270685719"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG: Remote Take-Home-Exam - LEARN - CR",
+        "pageId": "270685720"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG: Bitte anderes Formular verwenden! - LEARN - CR",
+        "pageId": "271174723"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG: ist erstellt - LEARN - CR",
+        "pageId": "271174724"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG: Hinweis für Prüfungen VOR dem 8.Juni - LEARN - CR",
+        "pageId": "270685721"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG: Testläufe - LEARN - CR",
+        "pageId": "271174725"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Fehler Anmeldung Testlauf Prüfung - LEARN - CR",
+        "pageId": "271174726"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "PRÜFUNG:  Online-Prüfung in Lehrveranstaltungsumgebung AB 8 Juni - LEARN - CR",
+        "pageId": "271174727"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abgabe von Aufgabe via Mail ins Notenbuch - LEARN - CR",
+        "pageId": "270685723"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: Canned Response - LEARN - CR",
+        "pageId": "271174728"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Syllabus aus LMS für LV übernehmen - LEARN - CR",
+        "pageId": "270685724"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Passwort: PW vergessen - LEARN - CR",
+        "pageId": "270685725"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Online-Prüfungen GP Okt 2020: wo? - LEARN - CR",
+        "pageId": "271174729"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Speicherlimit - LEARN - CR",
+        "pageId": "270685726"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Archivierte Lehrveranstaltungen - LEARN - CR",
+        "pageId": "271174730"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "OPU: wann wird diese im WS20/21 erstellt? - LEARN - CR",
+        "pageId": "270685727"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "CSV-Export Umlaute - LEARN - CR",
+        "pageId": "271174731"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Syllabus: Rückmeldung - LEARN - CR",
+        "pageId": "271174732"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: 100% Plagiat trotz Auge geschlossen - LEARN - CR",
+        "pageId": "271174733"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Ankündigungen: Errormeldung - LEARN - CR",
+        "pageId": "270685728"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Abschlussarbeiten: mehrere Mitverfasser - LEARN - CR",
+        "pageId": "270685729"
+    },
+    {
+        "projectKey": "LEARN",
+        "cannedResponseName": "LEARN::",
+        "pageTitle": "Clicker: Sortierung nach Nummern - LEARN - CR",
+        "pageId": "270685730"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "MK - CR",
+        "pageId": "270685731"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Lieferung halbmaschinell - Datei - MK - CR",
+        "pageId": "270685732"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Empfangsbestätigung halbmaschinell - MK - CR",
+        "pageId": "270685733"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Lieferung halbmaschinell - Paste - MK - CR",
+        "pageId": "270685734"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Datum nicht machbar - MK - CR",
+        "pageId": "270685736"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Empfangsbestätigung manuell - MK - CR",
+        "pageId": "270685737"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Lieferung manuell - Datei - MK - CR",
+        "pageId": "271174735"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "markdown test - MK - CR",
+        "pageId": "270685738"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Lieferung maschinell - Paste - MK - CR",
+        "pageId": "270685739"
+    },
+    {
+        "projectKey": "MK",
+        "cannedResponseName": "MK::",
+        "pageTitle": "Lieferung manuell - Paste text - MK - CR",
+        "pageId": "270685740"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Log4J Rückmeldung 0 - IT - CR",
+        "pageId": "271174737"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Log4j Rückmeldung Nochmal nachfragen - IT - CR",
+        "pageId": "271174738"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Log4j Rückmeldung Services u Kontakte - IT - CR",
+        "pageId": "270685741"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Log4j Rückmeldung Was soll ich machen - IT - CR",
+        "pageId": "270685742"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "TYPO3 how to's - IT - CR",
+        "pageId": "270685743"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Wiederherstellung Dateien - IT - CR",
+        "pageId": "270685744"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "NVivo  - IT - CR",
+        "pageId": "270685745"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "DeepL - IT - CR",
+        "pageId": "270685746"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Rechner- Upgrade TEST - IT - CR",
+        "pageId": "271174739"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "testantwort - IT - CR",
+        "pageId": "270685747"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Email aus Schnellauswahl entfernen - IT - CR",
+        "pageId": "271174740"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "ReserWUtion contactless_Studi Ablehnung - IT - CR",
+        "pageId": "270685748"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Diverse SC > Teams MS Teams - IT - CR",
+        "pageId": "271174741"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "GIS - Garage - IT - CR",
+        "pageId": "270685749"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Office365 Konfiguration - IT - CR",
+        "pageId": "270685750"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Notbetrieb Client Infrastructure Canned Response - IT - CR",
+        "pageId": "270685751"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Diverses SC > Notebrieb:Teams - IT - CR",
+        "pageId": "270685752"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Diverses SC -> Mikro Teams - IT - CR",
+        "pageId": "270685753"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Videos für die Webseite - IT - CR",
+        "pageId": "270685754"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Teams_Office365_Konfig_de - IT - CR",
+        "pageId": "270685755"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Teams Aufnahme - IT - CR",
+        "pageId": "270685756"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Mural - IT - CR",
+        "pageId": "270685757"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Emotet Info - IT - CR",
+        "pageId": "270685758"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Mentimeter - IT - CR",
+        "pageId": "270685759"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Mailingliste WUnet-Mitarbeitende > Abmelden - IT - CR",
+        "pageId": "271174742"
+    },
+    {
+        "projectKey": "IT",
+        "cannedResponseName": "IT::",
+        "pageTitle": "Clone of Zoom Aufzeichnung - IT - CR",
+        "pageId": "270685760"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "2G - LIBRARY - CR",
+        "pageId": "270685761"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "read!t Mitarbeiter*innen von Liste löschen DE - LIBRARY - CR",
+        "pageId": "270685762"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Neues Passwort engl. - LIBRARY - CR",
+        "pageId": "271174743"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Entlehnkaution engl. - LIBRARY - CR",
+        "pageId": "270685763"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Lernwoche - LIBRARY - CR",
+        "pageId": "270685764"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Auf Anfrage bestellbar - LIBRARY - CR",
+        "pageId": "271174745"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Bibliotheksausweis externe Studierende dt. - LIBRARY - CR",
+        "pageId": "270685765"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Bibliotheksausweis externe Studierende engl. - LIBRARY - CR",
+        "pageId": "270685766"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Abstract eng - LIBRARY - CR",
+        "pageId": "270685767"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Abstract ger - LIBRARY - CR",
+        "pageId": "270685768"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Signatur - LIBRARY - CR",
+        "pageId": "271174746"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Signatur lang - LIBRARY - CR",
+        "pageId": "271174747"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Verlängerung nicht möglich (Vormerkung) engl. - LIBRARY - CR",
+        "pageId": "271174748"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Schließung März 2020 DEUTSCH - LIBRARY - CR",
+        "pageId": "271174749"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Schließung März 2020 ENGLISCH - LIBRARY - CR",
+        "pageId": "270685770"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Fernzugriff via VPN für WU - LIBRARY - CR",
+        "pageId": "271174751"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Positive Antwort auf Anschaffungsvorschlag - LIBRARY - CR",
+        "pageId": "271174752"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Positive reply to acquisition request - LIBRARY - CR",
+        "pageId": "271174753"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Scanauftrag Zusage DE - LIBRARY - CR",
+        "pageId": "270685772"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Scanauftrag Zusage EN - LIBRARY - CR",
+        "pageId": "270685773"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Neues Passwort - LIBRARY - CR",
+        "pageId": "270685774"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Bibliotheksausweis Mitarbeiter/innen DE & ENG - LIBRARY - CR",
+        "pageId": "270685775"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "Passwortzettel zusenden - LIBRARY - CR",
+        "pageId": "270685776"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "read!t Signatur - LIBRARY - CR",
+        "pageId": "270685777"
+    },
+    {
+        "projectKey": "LIBRARY",
+        "cannedResponseName": "LIBRARY::",
+        "pageTitle": "COVID Test - LIBRARY - CR",
+        "pageId": "271174754"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Test Template - bitte nicht verwenden - SSC - CR",
+        "pageId": "271174755"
+    },
+    {
+        "projectKey": "SSC",
+        "cannedResponseName": "SSC::",
+        "pageTitle": "Wechsel an WU - SSC - CR",
+        "pageId": "270685778"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "IO - CR",
+        "pageId": "270685779"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "courses: when to leave WiSe - IO - CR",
+        "pageId": "270685780"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "OLA: not binding_WiSe - IO - CR",
+        "pageId": "271174756"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Formatierungen - IO - CR",
+        "pageId": "271174757"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "courses: Last course session - IO - CR",
+        "pageId": "270685781"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Signatur Vorlage - IO - CR",
+        "pageId": "271174759"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "courses: ECTS & workload - IO - CR",
+        "pageId": "271174760"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Transcript of Records OSS - IO - CR",
+        "pageId": "270685782"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "course overlaps LV Planer - IO - CR",
+        "pageId": "271174761"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "courses: prerequisites - IO - CR",
+        "pageId": "270685783"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "courses: minimum ECTS - IO - CR",
+        "pageId": "270685784"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "courses: no break between - IO - CR",
+        "pageId": "270685785"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Vienna: Semester Ticket - IO - CR",
+        "pageId": "271174763"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Confirmation of Arrival - IO - CR",
+        "pageId": "271174764"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Confirmation of Arrival Jahresstudierende - IO - CR",
+        "pageId": "270685786"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Confirmation of Arrival Kommunikation Partneruni - IO - CR",
+        "pageId": "271174765"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Substitute Code Pre-Enrollment - IO - CR",
+        "pageId": "270685787"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "courses: course numbers - IO - CR",
+        "pageId": "271174766"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "WU Incoming Kickoff Mandatory - IO - CR",
+        "pageId": "270685788"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Courses full in seconds - IO - CR",
+        "pageId": "270685789"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "deregistration course already started - IO - CR",
+        "pageId": "270685790"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "WUniverse Account funktioniert nicht - IO - CR",
+        "pageId": "270685791"
+    },
+    {
+        "projectKey": "IO",
+        "cannedResponseName": "IO::",
+        "pageTitle": "Preliminary LA - IO - CR",
+        "pageId": "271174767"
+    },
+    {
+        "projectKey": "WIPAED",
+        "cannedResponseName": "WIPAED::",
+        "pageTitle": "WIPAED - CR",
+        "pageId": "270685792"
+    },
+    {
+        "projectKey": "WIPAED",
+        "cannedResponseName": "WIPAED::",
+        "pageTitle": "Voraussetzungen - WIPAED - CR",
+        "pageId": "271174768"
+    },
+    {
+        "projectKey": "WIPAED",
+        "cannedResponseName": "WIPAED::",
+        "pageTitle": "Demo Response Projekt WIPAED - WIPAED - CR",
+        "pageId": "271174769"
+    },
+    {
+        "projectKey": "GLOBAL",
+        "cannedResponseName": "GLOBAL::",
+        "pageTitle": "GLOBAL - CR",
+        "pageId": "271174770"
+    },
+    {
+        "projectKey": "GLOBAL",
+        "cannedResponseName": "GLOBAL::",
+        "pageTitle": "Aussendung - GLOBAL - CR",
+        "pageId": "271174771"
+    }
+]

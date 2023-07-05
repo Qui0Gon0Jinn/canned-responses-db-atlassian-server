@@ -1,0 +1,81 @@
+[
+    {
+        "serverId": "8afc07df916615e46536fc988b971395_370536",
+        "name": "Demo Canned Response",
+        "templateScope": "GLOBAL",
+        "templateText": "LG\r\n$currentUserName$",
+        "templateId": "",
+        "pageId": "",
+        "pageTitle": "",
+        "spaceKey": "",
+        "last_update": {
+            "creation_date": "",
+            "creator_user": "",
+            "created_on": "",
+            "last_edit_date": "",
+            "last_editor": "",
+            "last_changed_on": ""
+        },
+        "chatbotAnswerDE": "",
+        "chatbotAnswerEN": "",
+        "ratings": ""
+    },
+    {
+        "serverId": "8afc07df916615e46536fc988b971395_370537",
+        "name": "Demo::Text-Format",
+        "templateScope": "GLOBAL",
+        "templateText": "*bold*",
+        "templateId": "",
+        "pageId": "",
+        "pageTitle": "",
+        "spaceKey": "",
+        "last_update": {
+            "creation_date": "",
+            "creator_user": "",
+            "created_on": "",
+            "last_edit_date": "",
+            "last_editor": "",
+            "last_changed_on": ""
+        }
+    },
+    {
+        "serverId": "8afc07df916615e46536fc988b971395_370538",
+        "name": "Demo::ITServiceDesk::Test",
+        "templateScope": "PROJECT",
+        "templateText": "Test - IT Service Desk",
+        "projectKey": "IT",
+        "templateId": "",
+        "pageId": "",
+        "pageTitle": "",
+        "spaceKey": "",
+        "last_update": {
+            "creation_date": "",
+            "creator_user": "",
+            "created_on": "",
+            "last_edit_date": "",
+            "last_editor": "",
+            "last_changed_on": ""
+        }
+    },
+    {
+        "serverId": "8afc07df916615e46536fc988b971395_370539",
+        "name": "Demo::PersonalTemplates::Test",
+        "ownerUserKey": "JIRAUSER86342",
+        "templateScope": "USER",
+        "templateText": "LG\r\n$currentUserFirstName$\r\n\r\n[WU IT|https://www.wu.ac.at/it]",
+        "templateId": "",
+        "pageId": "",
+        "pageTitle": "",
+        "spaceKey": "",
+        "last_update": {
+            "creation_date": "",
+            "creator_user": "",
+            "created_on": "",
+            "last_edit_date": "",
+            "last_editor": "",
+            "last_changed_on": "",
+            "wiki_last_update": "",
+            "jira_last_update": ""
+        }
+    }
+]

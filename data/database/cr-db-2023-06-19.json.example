@@ -1,0 +1,16 @@
+[
+    {
+        "serverId": "8afc07df916615e46536fc988b971395_370536",
+        "name": "Demo Canned Response",
+        "templateScope": "GLOBAL",
+        "templateText": "LG\r\n$currentUserName$",
+        "templateId": "",
+        "pageId": "",
+        "pageTitle": "",
+        "spaceKey": "",
+        "last_update": "",
+        "chatbotAnswerDE": "",
+        "chatbotAnswerEN": "",
+        "ratings": ""
+    }
+]
