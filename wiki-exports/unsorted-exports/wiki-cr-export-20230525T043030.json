@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Aussendung",
+        "templateText": "$issueDescription$",
+        "chatbotAnswerDE": "<br />",
+        "chatbotAnswerEN": "<br />",
+        "projectKey": "GLOBAL",
+        "templateId": "370536",
+        "pageId": "270683760",
+        "serverId": "8afc07df916615e46536fc988b971395_370536"
+    },
+    {
+        "name": "Aussendung",
+        "templateText": "$issueDescription$",
+        "chatbotAnswerDE": "<br />",
+        "chatbotAnswerEN": "<br />",
+        "projectKey": "GLOBAL",
+        "templateId": "370536",
+        "pageId": "270683760",
+        "serverId": "8afc07df916615e46536fc988b971395_370536"
+    },
+    {
+        "name": "Demo Canned Response",
+        "templateText": "LG<br />$currentUserName$",
+        "chatbotAnswerDE": "",
+        "chatbotAnswerEN": "",
+        "projectKey": "GLOBAL",
+        "templateId": "TODO: get templateID",
+        "pageId": "270684002",
+        "serverId": "8afc07df916615e46536fc988b971395_TODO: get templateID"
+    },
+    {
+        "name": "Demo Canned Response",
+        "templateText": "LG<br />$currentUserName$",
+        "chatbotAnswerDE": "",
+        "chatbotAnswerEN": "",
+        "projectKey": "GLOBAL",
+        "templateId": "TODO: get templateID",
+        "pageId": "270684002",
+        "serverId": "8afc07df916615e46536fc988b971395_TODO: get templateID"
+    },
+    {
+        "name": "Demo Canned Response",
+        "templateText": "LG<br />$currentUserName$",
+        "chatbotAnswerDE": "",
+        "chatbotAnswerEN": "",
+        "projectKey": "GLOBAL",
+        "templateId": "TODO: get templateID",
+        "pageId": "270684002",
+        "serverId": "8afc07df916615e46536fc988b971395_TODO: get templateID"
+    }
+]
