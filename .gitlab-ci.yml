@@ -1,0 +1,133 @@
+# This file is a template, and might need editing before it works on your project.
+# To contribute improvements to CI/CD templates, please follow the Development guide at:
+# https://docs.gitlab.com/ee/development/cicd/templates.html
+# This specific template is located at:
+# https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Python.gitlab-ci.yml
+
+
+default:
+    image: broadinstitute/python-requests:latest
+
+
+variables:
+  WIKI_PAT: "${WIKI_PAT}"
+  JIRA_USER: "${JIRA_USER}"
+  JIRA_PERSONAL_TOKEN: "${JIRA_PERSONAL_TOKEN}"
+  SECURE_LOG_LEVEL: "debug"
+  SAST_SEMGREP_METRICS: "false"
+
+stages:
+  # - build
+  - lint
+  - test
+  - execute
+
+showvars:
+  stage: test
+  # variables:
+  #   GIT_STRATEGY: none
+  script:
+    - export
+
+
+# docker:build:
+#   stage: build
+#   script:
+#     # - docker build -t canned-responses-sync .
+#     - docker build -f "${CI_PROJECT_DIR}/Dockerfile" -t "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}" .
+#     - docker login ${CI_REGISTRY} -u "${CI_REGISTRY_USER}" -p "${CI_REGISTRY_PASSWORD}"
+#     - docker push "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
+#   rules:
+#     - if: '$CI_COMMIT_BRANCH == "main"'
+
+# lint-flake8:
+#   stage: lint
+#   allow_failure: true
+#   # image: "${CI_REGISTRY_IMAGE}:${CI_COMMIT_SHORT_SHA}"
+#   image: "registry.wu.ac.at/team-md/servicedesk/canned-responses-handler:${CI_COMMIT_SHORT_SHA}"
+#   script:
+#     # - echo "Debug Mode - very strict, displaying all types of flake8 error codes"
+#     # - flake8 "${CI_PROJECT_DIR}"/src/
+#     - echo "Easy Mode - ignore certain errors"
+#     - echo "for all flake8 ErrorCodes visit https://flake8.pycqa.org/en/latest/user/error-codes.html"
+#     - flake8 --extend-ignore E501,E302,E222,E266 "${CI_PROJECT_DIR}"/src/
+#     # # see all flake8 Error Codes at https://flake8.pycqa.org/en/latest/user/error-codes.html
+#     # # for error codes categorization visit https://pycodestyle.pycqa.org/en/latest/intro.html#error-codes
+
+lint-pytest:
+  stage: lint
+  allow_failure: true
+  script:
+    - cd src/
+    - pytest
+
+# pytest:
+#   stage: lint
+#   image: python:3.10
+#   allow_failure: true
+#   before_script:
+#     - pip install -r requirements.txt  # Install project dependencies
+#   script:
+#     - pytest
+
+Execute:
+  stage: execute
+  script:
+    # - docker run canned-responses-sync
+    - python3 ./src/main.py
+    # - python3 ./src/main.py || echo "Error occurred, sending email..." | mail -s "Error in Gitlab pipeline" florian.scholz@wu.ac.at
+  only:
+    - main
+    - schedules
+    - triggers
+    - web
+  when: manual
+  interruptible: true
+  
+
+# sast:
+#   stage: test
+#   allow_failure: true
+#   image: docker:latest
+#   script:
+#     - docker run --rm --volume "${CI_PROJECT_DIR}:/src" returntocorp/semgrep --config=p/ci --metrics=off --json . > semgrep.sarif
+#   artifacts:
+#     reports:
+#       sast: semgrep.sarif
+# sast:
+#   stage: test
+#   script:
+#     - semgrep ci --config auto
+
+# dev-results:
+#   stage: development
+#   image: "registry.wu.ac.at/team-md/servicedesk/canned-responses-handler:${CI_COMMIT_SHORT_SHA}"
+#   script:
+#     - pip install requests
+#     - python main.py
+#     # - python src/canned_response_downloader.py
+
+## Development - SAST enabling in Gitlab - src: Gitlab Documentation
+# sast_results:
+#   stage: results
+#   script:
+#     - semgrep --sarif-report=semgrep.sarif
+
+## FAILED SAST implementation
+# # Gitlab Documentation - Static Application Security Testing
+# include:
+#   remote: "https://gitlab.com/gitlab-org/gitlab/-/raw/2851f4d5/lib/gitlab/ci/templates/Jobs/SAST.latest.gitlab-ci.yml"
+
+#   PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip" # Change pip's cache directory to be inside the project directory since we can only cache local items.
+
+# # Pip's cache doesn't store the python packages
+# # https://pip.pypa.io/en/stable/topics/caching/
+# #
+# # If you want to also cache the installed packages, you have to install
+# # them in a virtualenv and cache it as well.
+# cache:
+#   paths:
+#     - .cache/pip
+#     - venv/
+
+
