@@ -1,25 +1,17 @@
-from flaskapi import FlaskAPI, Resource, Fields
-from flask import Flask, request
-from json import loads
+import json
+from flask import Flask, jsonify, request, Resource
+from flask_restful import Resource, Api
 
-data_confluence = loads('dev/example-wiki-export.json')
-data_jira = loads('dev/example-jira-export.json')
 
-class ConfluenceResource(Resource):
+class DataResource(Resource):
+    def __init__(self, data_path):
+        self.data = json.load(open(data_path))
     def get(self):
-        return data_confluence
+        return self.data
 
-class JiraResource(Resource):
-    def get(self):
-        return data_jira
-
-class ApiApp(FlaskAPI):
-    def __init__(self):
-        super().__init__('api', Flask(__name__))
-        self.add_resource(ConfluenceResource, '/confluence')
-        self.add_resource(JiraResource, /'jira')
-
-app = ApiApp()
+app = FlaskAPI(Flask(__name__))
+app.add_resource(DataResource('dev/example-wiki-export.json'), '/confluence')
+app.add_resource(DataResource('dev/example-jira-export.json'), '/jira')
 
 if __name__ == '__main__':
     app.run()
