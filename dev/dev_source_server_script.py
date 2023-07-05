@@ -9,7 +9,7 @@ class DataResource(Resource):
     def get(self):
         return self.data
 
-app = FlaskAPI(Flask(__name__))
+app = Api(Flask(__name__))
 app.add_resource(DataResource('dev/example-wiki-export.json'), '/confluence')
 app.add_resource(DataResource('dev/example-jira-export.json'), '/jira')
 
